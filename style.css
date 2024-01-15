@@ -11,11 +11,11 @@
     color: #f4f4f4;
 
    }
-.layered-image {
+.imagen {
    
-    background-image: url("imagenes/imagen\ de\ programming.jpg");
-    background: linear-gradient(violet ,black);
-   
+    background-image: url("imagenes/imagen\ de\ avatar\ sobre\ programacion.jpg");
+    background-size: cover;
+    background: linear-gradient(black ,violet);
 }
   
    
@@ -45,7 +45,7 @@
 
 .first-ul a {
     text-decoration: none;
-    color: #f513b9;
+    color: #1d1a1c;
     font-size: larger;
     transition: background-color 0.3s ease;
     
@@ -272,6 +272,26 @@ body {
     scroll-margin-inline: 2rem;
   }
 
+
+  #video-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px; /* Espacio entre los elementos de la cuadrícula */
+}
+
+.video-item {
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%; /* Proporción de aspecto 16:9 para el contenedor */
+    overflow: hidden;
+}
+
+.video-item video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ajusta el video dentro del contenedor */
+}
 
   #wallet_container {
 
