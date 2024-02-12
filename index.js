@@ -4,9 +4,9 @@ document.getElementById('downloaded-videos').addEventListener('click', function(
         reproducirVideo(videoSrc);
     }
 });
-
 document.addEventListener('DOMContentLoaded', function () {
-    const videoGrid = document.getElementById('video-grid');
+    
+const videoGrid = document.getElementById('video-grid');
 
 
 videos.forEach((videoSrc, index) => {

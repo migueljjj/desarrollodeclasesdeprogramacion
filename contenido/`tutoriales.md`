@@ -1,0 +1,33 @@
+Programación Web:
+
+La programación web se refiere al desarrollo de aplicaciones y sitios web que se ejecutan en un navegador web. Implica la creación y mantenimiento de la estructura, el diseño y la funcionalidad de los sitios web para que sean accesibles y atractivos para los usuarios.
+
+HTML (HyperText Markup Language):
+
+HTML es el lenguaje estándar utilizado para crear y diseñar páginas web. Se compone de una serie de elementos y etiquetas que definen la estructura y el contenido de una página web. Los elementos HTML pueden incluir encabezados, párrafos, enlaces, imágenes, formularios, entre otros. HTML proporciona la base sobre la cual se construyen los sitios web.
+
+CSS (Cascading Style Sheets):
+
+CSS es un lenguaje utilizado para dar estilo y diseñar páginas web creadas con HTML. Permite controlar la presentación visual de los elementos HTML, como el diseño, los colores, las fuentes y el espaciado. Con CSS, los desarrolladores pueden crear diseños atractivos y responsivos que se adapten a diferentes dispositivos y tamaños de pantalla.
+
+JavaScript:
+
+JavaScript es un lenguaje de programación de alto nivel que se utiliza principalmente para agregar interactividad y dinamismo a las páginas web. Con JavaScript, los desarrolladores pueden manipular el contenido de una página, responder a eventos del usuario, validar formularios, crear efectos visuales y mucho más. Es un componente fundamental en el desarrollo web moderno y es compatible con todos los navegadores web principales.
+
+Sass (Syntactically Awesome Style Sheets):
+
+Sass es un preprocesador de CSS que extiende la funcionalidad de CSS al agregar características como variables, anidamiento, mixins y herencia. Esto facilita la escritura y el mantenimiento del código CSS, ya que permite una mayor modularidad y reutilización. Sass ayuda a los desarrolladores a crear estilos más eficientes y escalables para sus proyectos web.
+
+PHP:
+
+PHP es un lenguaje de programación del lado del servidor ampliamente utilizado en el desarrollo web. Se utiliza para generar contenido dinámico y interactuar con bases de datos para crear aplicaciones web completas. Con PHP, los desarrolladores pueden crear formularios, gestionar sesiones de usuario, procesar datos de formularios, acceder a bases de datos y mucho más. Es una herramienta poderosa para el desarrollo de sitios web dinámicos y aplicaciones web.
+
+React:
+
+React es una biblioteca de JavaScript de código abierto utilizada para construir interfaces de usuario interactivas y de una sola página. Desarrollada por Facebook, React utiliza un enfoque basado en componentes, donde las interfaces de usuario se dividen en componentes reutilizables que gestionan su propio estado. Esto permite crear aplicaciones web rápidas y eficientes, ya que solo se actualizan los componentes que han cambiado, en lugar de recargar toda la página.
+
+Node.js:
+
+Node.js es un entorno de ejecución de JavaScript del lado del servidor que permite a los desarrolladores construir aplicaciones web escalables y de alto rendimiento. Utiliza el motor de JavaScript V8 de Google Chrome para ejecutar código JavaScript fuera del navegador. Node.js es ideal para crear aplicaciones web en tiempo real, API RESTful, servidores de juegos y cualquier otra aplicación que requiera una comunicación bidireccional entre el cliente y el servidor.
+
+Estas tecnologías forman la base del desarrollo web moderno y se utilizan en conjunto para crear aplicaciones web dinámicas, atractivas y funcionales. A medida que avanzas en tu aprendizaje, te recomendaría explorar proyectos prácticos y seguir aprendiendo sobre las últimas tendencias y herramientas en el campo de la programación web.

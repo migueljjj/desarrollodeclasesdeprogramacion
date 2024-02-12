@@ -302,3 +302,106 @@ body {
     background-color: #ddd;
     
   }
+
+
+  .btn {
+
+    margin: 20px 20px 20px 20px;
+    padding: 20px;
+    text-align: center;
+    font-family: fantasy;
+    color: chocolate;
+    font-size: large;
+    background-color: white;
+    border-radius: 2rem;
+    cursor: pointer;
+    color: rgb(133, 22, 224);
+    
+  }
+
+  /* Estilos para pantallas grandes (mayor a 768px) */
+@media screen and (min-width: 768px) {
+    /* Ajustar el ancho del cuerpo de la página */
+    body {
+        width: 100%; /* Porcentaje del ancho total de la pantalla */
+        margin: 0 auto; /* Centrar el cuerpo de la página horizontalmente */
+    }
+
+    /* Estilos específicos para el logo */
+    .logo {
+        width: 80px; /* Tamaño original del logo */
+        position: fixed; /* Posición fija en la parte superior */
+    }
+
+    /* Estilos específicos para el menú de navegación */
+    .first-ul {
+        text-align: right; /* Alineación a la derecha */
+    }
+
+    .first-ul ul {
+        display: inline-flex; /* Elementos de lista horizontales */
+    }
+
+    .first-ul li {
+        margin: 0 10px; /* Espaciado horizontal entre elementos */
+    }
+
+    .first-ul a {
+        font-size: larger; /* Tamaño de fuente ligeramente más grande */
+    }
+
+    /* Otros estilos específicos para pantallas grandes aquí */
+}
+
+/* Estilos para pantallas medianas (entre 576px y 767px) */
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    /* Reducir el tamaño de la fuente del texto 'dragon' */
+    .dragon {
+        font-size: medium; /* Tamaño de fuente medio */
+    }
+
+    /* Estilos específicos para el menú de navegación en pantallas medianas */
+    .first-ul {
+        text-align: center; /* Centrar el menú de navegación */
+    }
+
+    /* Otros estilos específicos para pantallas medianas aquí */
+}
+
+/* Estilos para pantallas pequeñas (menor a 576px) */
+@media screen and (max-width:127px) {
+    /* Ocultar el logo en pantallas pequeñas */
+    .logo {
+        display: none; /* Ocultar el logo */
+    }
+
+    /* Estilos para el cuerpo de la página en pantallas pequeñas */
+    body {
+        
+        margin: 0 auto;
+        padding-top: 60px;
+         /* Espacio adicional en la parte superior */
+    }
+
+    /* Estilos específicos para el menú de navegación en pantallas pequeñas */
+    .first-ul {
+        text-align: center; /* Centrar el menú de navegación */
+    }
+
+    .first-ul ul {
+        display: inline-flex; /* Elementos de lista horizontales */
+    }
+
+    .first-ul li {
+        margin: 0 10px;
+        padding: 0; /* Espaciado horizontal entre elementos */
+    }
+
+    .first-ul a {
+        font-size: larger; /* Tamaño de fuente ligeramente más grande */
+    }
+
+    /* Otros estilos específicos para pantallas pequeñas aquí */
+
+
+}

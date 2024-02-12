@@ -1,0 +1,33 @@
+HTML y CSS:
+
+Crea una página web que incluya un encabezado, un menú de navegación horizontal y varios bloques de contenido, utilizando solo HTML y CSS para diseñarla.
+
+Diseña un formulario de registro que solicite información básica como nombre, dirección de correo electrónico y contraseña. Utiliza CSS para estilizar el formulario y hacerlo más atractivo visualmente.
+
+Construye una galería de imágenes utilizando HTML y CSS. Cada imagen debe tener un título y una descripción, y al hacer clic en una imagen, esta debe ampliarse en un modal o ventana emergente.
+
+JavaScript:
+
+Crea una calculadora básica que pueda realizar operaciones de suma, resta, multiplicación y división. Utiliza JavaScript para capturar los valores ingresados por el usuario y mostrar el resultado en la pantalla.
+
+Desarrolla un juego de memoria donde se muestren varias cartas boca abajo y el jugador debe encontrar las parejas de cartas iguales. Utiliza JavaScript para controlar la lógica del juego y mantener el estado de las cartas.
+
+Implementa un temporizador que comience a contar desde cero cuando el usuario presione un botón de inicio y se detenga cuando se presione un botón de detención. Utiliza JavaScript para actualizar el temporizador en tiempo real y mostrar los minutos, segundos y milisegundos transcurridos.
+
+PHP y MySQL:
+
+Crea un formulario de inicio de sesión que solicite un nombre de usuario y una contraseña. Utiliza PHP para validar las credenciales ingresadas por el usuario y MySQL para verificar si existen en la base de datos.
+
+Desarrolla un sistema de gestión de contactos donde los usuarios puedan agregar, editar y eliminar contactos. Utiliza PHP para procesar las solicitudes del usuario y MySQL para almacenar la información de contacto.
+
+Construye un blog simple donde los usuarios puedan publicar artículos con un título, contenido y fecha de publicación. Utiliza PHP para manejar las solicitudes de publicación y MySQL para almacenar los artículos del blog.
+
+React:
+
+Crea una aplicación de lista de tareas utilizando React. Permite a los usuarios agregar nuevas tareas, marcarlas como completadas y eliminarlas de la lista.
+
+Desarrolla un componente de contador que tenga botones de incremento y decremento. Utiliza React para actualizar el estado del contador cuando se hacen clic en los botones.
+
+Implementa una aplicación de búsqueda de películas que muestre una lista de películas populares y permita a los usuarios buscar películas por título. Utiliza la API de películas de TMDb y React para mostrar los resultados de la búsqueda en tiempo real.
+
+Estos ejercicios te ayudarán a fortalecer tus habilidades en programación web y a familiarizarte con el desarrollo de proyectos prácticos. ¡Espero que te resulten útiles y divertidos de realizar! Si tienes alguna pregunta o necesitas ayuda adicional con alguno de los ejercicios, no dudes en preguntar. ¡Estoy aquí para ayudarte!
